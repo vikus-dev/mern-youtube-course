@@ -1,0 +1,6 @@
+{
+  "port": 5001,
+  "jwtSecret": "f79vn5yt7tynvsvpl95ytcmnlmx4w",
+  "mongoUri": "mongodb+srv://vitaxa:-Pyg68V6P9JVfRg@cluster0.69ayo.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5001"
+}
